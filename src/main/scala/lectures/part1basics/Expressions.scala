@@ -1,7 +1,7 @@
 package lectures.part1basics
 
 object Expressions{
-  @main def main: Unit =
+  def main: Unit =
     val x = 1 + 2 // expression
     println(x)
     println(2 + 3 * 4)

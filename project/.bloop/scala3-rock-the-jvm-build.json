@@ -199,7 +199,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/lib/jvm/java-17-openjdk-amd64",
+                "home": "/usr/lib/jvm/adoptopenjdk-8-openj9-amd64/jre",
                 "options": [
                     "-Duser.dir=/home/phi/Documents/aiwita/codes/scala/udemy/scala3-rock-the-jvm/project"
                 ]
