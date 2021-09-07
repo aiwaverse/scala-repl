@@ -27,7 +27,7 @@ object Functions {
       else (n % m != 0) && isPrimeAux(m + 1)
     isPrimeAux(2)
 
-  @main def main: Unit =
+  def main: Unit =
     println(greeting("Agatha", 1))
     println(factorial(5))
     println(fibonacci(20))
