@@ -76,3 +76,10 @@ project/plugins/project/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,scala,java,sbt,visualstudiocode
+
+### Metals ###
+.metals/
+.bloop/
+project/**/metals.sbt
+
+# End of https://www.toptal.com/developers/gitignore/api/metals
