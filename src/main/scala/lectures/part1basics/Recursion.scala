@@ -3,7 +3,7 @@ package lectures.part1basics
 import scala.annotation.tailrec
 
 object Recursion {
-  @main def main(): Unit =
+  def main(): Unit =
     println(fibonacci(8))
 
   def factorial(n: Int): BigInt = 
