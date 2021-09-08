@@ -81,5 +81,6 @@ project/plugins/project/
 .metals/
 .bloop/
 project/**/metals.sbt
+null/
 
 # End of https://www.toptal.com/developers/gitignore/api/metals
